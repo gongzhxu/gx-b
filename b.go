@@ -5,5 +5,5 @@ import (
 )
 
 func BFunc() {
-	log.Println("this is b")
+	log.Println("this is bb")
 }
